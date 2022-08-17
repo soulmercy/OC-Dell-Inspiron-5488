@@ -1398,9 +1398,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02W7KZCJHCC</string>
+			<string>C02XHFYKJHCC</string>
 			<key>SystemUUID</key>
-			<string>2D4F275C-72C5-4781-9471-5DB4ACC2DE5B</string>
+			<string>CF51BECE-BB68-4CB5-B59B-AC06BA0F9359</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -1409,11 +1409,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02806404GUJH4R1M</string>
+			<string>C028401014NJH4R1F</string>
 			<key>ProcessorType</key>
 			<integer>1793</integer>
 			<key>ROM</key>
-			<data>IQsEygNk</data>
+			<data>FYunSdav</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1421,9 +1421,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02W7KZCJHCC</string>
+			<string>C02XHFYKJHCC</string>
 			<key>SystemUUID</key>
-			<string>2D4F275C-72C5-4781-9471-5DB4ACC2DE5B</string>
+			<string>CF51BECE-BB68-4CB5-B59B-AC06BA0F9359</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -1434,13 +1434,13 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>P/+f/wgAAAA=</data>
 			<key>MLB</key>
-			<string>C02806404GUJH4R1M</string>
+			<string>C028401014NJH4R1F</string>
 			<key>ROM</key>
-			<data>IQsEygNk</data>
+			<data>FYunSdav</data>
 			<key>SystemSerialNumber</key>
-			<string>C02W7KZCJHCC</string>
+			<string>C02XHFYKJHCC</string>
 			<key>SystemUUID</key>
-			<string>2D4F275C-72C5-4781-9471-5DB4ACC2DE5B</string>
+			<string>CF51BECE-BB68-4CB5-B59B-AC06BA0F9359</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
